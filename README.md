@@ -1,7 +1,7 @@
 
 ## Getting Started
 
-->This's application contains the time of every country in the world.
+This's application contains the time of every country in the world.
 <br></br>
  What I learn from this project?
 <br></br>
