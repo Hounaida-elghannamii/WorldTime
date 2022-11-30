@@ -4,6 +4,8 @@
 This's application contains the time of every country in the world.
 <br></br>
  What I learn from this project?
+ - Lab: Write your first Flutter app
+- Cookbook: Useful Flutter samples
 <br></br>
   -Flutter,dart.
 <br></br>
